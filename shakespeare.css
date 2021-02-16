@@ -1,0 +1,17 @@
+.speech{color:black;
+font-style: Times;
+font-size: 20;}
+.direction{
+    font-size: 22;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blanchedalmond;
+}
+.name{
+font-size: 24;
+font-family: serif;
+color:red;
+}
+.direction:hover{
+    color: blue;
+;
+}
