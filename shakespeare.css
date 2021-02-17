@@ -54,6 +54,12 @@ td{text-align: left;
     text-shadow:5px 5px 2px blueviolet;
     padding:8px;
 }
+image{
+    height: 100px;
+    width: 150px;
+    margin-left: 40px;
+    border-radius: 10px;
+}
 
 }
 }
