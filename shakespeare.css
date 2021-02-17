@@ -51,7 +51,8 @@ td{text-align: left;
 .name:hover{
     color: red;
     border: 3px solid;
-    text-shadow:2px 2px blueviolet;
+    text-shadow:5px 5px 2px blueviolet;
+    padding:8px;
 }
 
 }
