@@ -48,6 +48,11 @@ th{ text-align: center;
    }
 td{text-align: left;
    color:brown;}
+.name:hover{
+    color: red;
+    border: 3px solid;
+    text-shadow:2px 2px blueviolet;
+}
 
 }
 }
