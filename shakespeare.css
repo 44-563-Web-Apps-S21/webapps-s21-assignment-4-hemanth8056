@@ -1,39 +1,49 @@
-.presenter{
+.presenter {
     font-family: sans-serif;
     color: brown;
     font-size: 25;
 }
-.part{
-font-family: serif;
-font-size: 23;
-color: cadetblue;
+
+.part {
+    font-family: serif;
+    font-size: 23;
+    color: cadetblue;
 }
-.speech{color:black;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-font-size: 20;}
-.stage{
+
+.speech {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20;
+}
+
+.stage {
     color: black;
     font-size: 22;
     font-family: Arial, Helvetica, sans-serif;
     background-color: blanchedalmond;
 }
-.name{
-font-size: 24;
-font-family: serif;
-color: black;
+
+.name {
+    font-size: 24;
+    font-family: serif;
+    color: black;
 }
-.stage:hover{
+
+.stage:hover {
     color: blue;
     border: 2px solid;
-;
+    ;
 }
-.PRINCE{
-    color:darkcyan;
+
+.PRINCE {
+    color: darkcyan;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-.FALSTAFF{
+
+.FALSTAFF {
     color: crimson;
 }
+
 table,
 th,
 td {
@@ -42,24 +52,28 @@ td {
     padding: 15px;
     margin: 3%;
 }
-th{ text-align: center;
+
+th {
+    text-align: center;
     color: rgb(7, 7, 7);
-    font-weight:bold;
-   }
-td{text-align: left;
-   color:brown;}
-.name:hover{
-    color: red;
-    border: 3px solid;
-    text-shadow:5px 5px 2px blueviolet;
-    padding:8px;
-}
-.img{
-    height: 100px;
-    width: 150px;
-    margin-left: 40px;
-    border-radius: 10px;
+    font-weight: bold;
 }
 
+td {
+    text-align: left;
+    color: brown;
 }
+
+.name:hover {
+    color: red;
+    border: 3px solid;
+    text-shadow: 5px 5px 2px blueviolet;
+    padding: 8px;
+}
+
+.img {
+    height: 200px;
+    width: 300px;
+    margin-left: 40px;
+    border-radius: 10px;
 }
