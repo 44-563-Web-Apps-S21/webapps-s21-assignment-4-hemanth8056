@@ -30,9 +30,9 @@
 }
 
 .stage:hover {
-    color: blue;
+    color: white;
     border: 2px solid;
-    ;
+    background-color: red;
 }
 
 .PRINCE {
